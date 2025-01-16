@@ -170,6 +170,22 @@ main{
 .sponsors-img img{
 width: 165px;
 }
+.footer{
+    background-color: rgb(255,144,14,0.10);
+   
+    border-radius: 8px;
+    margin-top:100px;
+    margin-bottom: 100px;
+    padding: 50px 100px;
+   
+}
+.footer p {
+    justify-content: center;
+    font-size: 1.2rem;
+}
+   
+ 
+   
 
 
 /*responsive part*/
